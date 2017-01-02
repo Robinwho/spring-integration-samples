@@ -16,6 +16,7 @@ To run the sample simply execute **HelloWorldApp** in package **org.springframew
 You can also execute that class using the [Gradle](http://www.gradle.org):
 
     $ gradlew :helloworld:runHelloWorldApp
+    #If you get error when running the command, just use "./gradlew" under the path
 
 You should see the following output:
 
